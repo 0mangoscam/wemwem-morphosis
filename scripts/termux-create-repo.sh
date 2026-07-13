@@ -2,7 +2,7 @@
 set -euo pipefail
 
 REPO_NAME="wemwem-morphosis"
-OWNER="Mangoscam"
+OWNER="0mangoscam"
 
 pkg update -y
 pkg install -y git gh unzip
